@@ -3,20 +3,21 @@
 
 @import "{{ site.theme }}";
 header {
- width: 120px;
- float:left;
- position:fixed;
- -webkit-font-smoothing:subpixel-antialiased
+ 	width: 120px;
+	float:left;
+ 	position:fixed;
+ 	-webkit-font-smoothing:subpixel-antialiased
 }
 
 section {
- width:600px;
- float:right;
- padding-bottom:50px
+ 	width:600px;
+ 	float:right;
+ 	padding-bottom:50px
 }
 
 body {
-	color: #727272;}
+	color: #000;
+}
 
 h1  {
     	font-family: Arial, sans-serif;
