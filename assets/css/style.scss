@@ -72,3 +72,16 @@ a:hover, a:focus  {
   	background-color: #757575;
 	font-weight: 300;
 }
+
+@media print, screen and (max-width: 1080px) {
+ div.wrapper {
+  width:auto;
+  margin:0
+ }
+
+header, section, footer {
+    float: none;
+    position: static;
+    width: auto;
+}
+}
