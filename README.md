@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Digitalisierung, Mobilitätswende, Säkularisierung, Klimawandel, Demografischer Wandel –	die beherrschenden Megatrends unserer Zeit verändern unsere Städte radikal. Gemeinsam mit disruptiven Ereignissen, wie der Corona-Pandemie von 2020, sorgen sie dafür, dass alte Gewissheiten nicht mehr gelten. Infrastrukturen, Immobilien, Grundstücke und damit zusammenhängende Geschäftsmodelle, Logiken und Prozesse verlieren ihre ursprüngliche Bedeutung. Das Risiko für Liegenschaften, obsolet zu werden, steigt. Die Gefahr von Leerständen und un- und untergenutzten Flächen in ansonsten prosperierenden und wachsenden Großstädten steigt. Doch wie erkennen wir die Risiken? Können wir bestimmte Entwicklungen sogar antizipieren? Und wie gelingt die nachhaltige Transformation von solchen obsoleten Systemen?
 
-You can use the [editor on GitHub](https://github.com/voneff/obsolete-stadt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/voneff/obsolete-stadt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Drei Jahre lang wird das internationale, transdisziplinäre Forschungsprojekt „Die Obsolete Stadt“ diese Leitfragen in ausgesuchten deutschen Großstädten exemplarisch ergründen und wissenschaftliche Antworten und Methoden entwickeln. 
+		
+Das Vorhaben erhält eine Förderung durch die <a href="https://www.bosch-stiftung.de/de" target="_blank">Robert-Bosch-Stiftung</a>. Verwaltet wird das Projekt von der <a href="https://www.uni-kassel.de/fb06/" target="_blank"> Fakultät für Architektur, Städtebau und Landschaftsplanung der Universität Kassel </a> sowie dem <a href="https://sound.hs-niederrhein.de"target="_blank"> Kompetenzzentrum für Public und Social Design der Hochschule Niederrhein.</a>
+	
+Dieses Webseite befindet sich noch im Aufbau.
