@@ -4,11 +4,11 @@ Universität Kassel\
 Fachgebiet Städtebau\
 Prof. Stefan Rettich\
 Gottschalkstr. 22\
-34127 Kassel\
+34127 Kassel
 
 Telefon: +49 561 804 32 76\ 
 Fax: +49 561 804 23 90\
-E-Mail: info@obsolete-stadt.de\
+E-Mail: info@obsolete-stadt.de
 
 ### Haftungshinweis:
 
