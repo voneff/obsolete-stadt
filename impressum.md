@@ -1,7 +1,7 @@
 ## Impressum
 
-Universität Kassel\
-Fachgebiet Städtebau\
+Universität Kassel  
+Fachgebiet Städtebau  
 Prof. Stefan Rettich\
 Gottschalkstr. 22\
 34127 Kassel
