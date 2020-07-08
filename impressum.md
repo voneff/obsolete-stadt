@@ -8,7 +8,7 @@ Gottschalkstr. 22
 
 Telefon: +49 561 804 32 76  
 Fax: +49 561 804 23 90  
-E-Mail: info@obsolete-stadt.de
+E-Mail: <info@obsolete-stadt.de>
 
 ### Technische Umsetzung:
 Alex von Freeden – <a href="https://laikalaika.de/">LaikaLaika.de</a>
