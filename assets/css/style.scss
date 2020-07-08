@@ -126,8 +126,13 @@ a:hover, a:focus  {
     		position: static;
     		width: auto;
 	}
-}
 
+ 	section {
+	border-top: none;
+  	border-bottom:1px solid #e5e5e5;
+ 	}
+}
+	
 @media print, screen and (max-width: 480px) {
 	h1, h2, h3, p {
 		font-size: 1.35rem;
