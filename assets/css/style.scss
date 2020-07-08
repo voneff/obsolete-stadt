@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+.wrapper {
+    width: 1080px;
+    margin: 0 auto;
+}
+
 header {
  	width: 120px;
 	float:left;
@@ -10,7 +15,7 @@ header {
 }
 
 section {
- 	width:600px;
+ 	width: 720px;
  	float:right;
  	padding-bottom:50px
 }
