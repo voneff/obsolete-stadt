@@ -11,3 +11,5 @@ Diese Webseite befindet sich noch im Aufbau.
 Kontakt: <a href="mailto:info@obsolete-stadt.de">info@obsolete-stadt.de</a>
 
 <a href="{{ 'mailto:info@obsolete-stadt.de' | encode_email }}">{{ 'info@obsolete-stadt.de' | encode_email }}</a>
+
+<email@domain.com>
