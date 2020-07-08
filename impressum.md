@@ -10,6 +10,9 @@ Telefon: +49 561 804 32 76\
 Fax: +49 561 804 23 90\
 E-Mail: info@obsolete-stadt.de
 
+### Technische Umsetzung:
+Alex von Freeden – <a href="https://laikalaika.de/">LaikaLaika.de</a>
+
 ### Haftungshinweis:
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
