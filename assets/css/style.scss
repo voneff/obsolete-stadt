@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+body {color: #727272;}
+
 h1  {
     	font-family: Arial, sans-serif;
 	font-size: 2rem;
@@ -35,7 +37,6 @@ a {
 a:hover, a:focus  { 
 	color: #757575;
   	background-color: #757575;
-	font-weight: 300;
 }
 
 img {width: 75px;
