@@ -2,7 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
-body {color: #727272;}
+header {
+ width: 120px;
+ float:left;
+ position:fixed;
+ -webkit-font-smoothing:subpixel-antialiased
+}
+
+section {
+ width:600px;
+ float:right;
+ padding-bottom:50px
+}
+
+body {
+	color: #727272;}
 
 h1  {
     	font-family: Arial, sans-serif;
