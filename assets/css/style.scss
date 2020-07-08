@@ -37,13 +37,15 @@ p {
 	margin-top: 0em;	
 }
 
-a {  	color: #757575;
-		text-decoration: none;  
+a {  	
+	color: #757575;
+	text-decoration: none;  
 }
 
-a:hover { 
+a:hover, a:focus  { 
+	color: #757575;
   	background-color: #757575;
-	
+	font-weight: 300;
 }
 
 img {width: 75px;
