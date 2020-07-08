@@ -16,7 +16,7 @@ header {
 
 section {
  	width: 860px;
- 	float:right;
+ 	float: right;
  	padding-bottom:50px
 }
 
@@ -27,7 +27,7 @@ body {
 
 h1  {
 	font-size: 2rem;
-	font-weight: 900;
+	font-weight: bold;
 	line-height: 1.3; 
 	color: #000;
 
@@ -36,18 +36,18 @@ h1  {
 h1 a {
 	border-bottom: solid 4px #000;
 	font-size: 2rem;
-	font-weight: 900;
+	font-weight: bold;
 	line-height: 1.3; 
 	color: #000;
 	}
 
 h1 a:hover, h1 a :focus  {
-	font-weight: 900;
+	font-weight: bold;
 	border-bottom: solid 4px #757575;
 }
 
 .header p {
-	font-weight: 900;
+	font-weight: bold;
 	font-size: 2rem;
 	line-height: 1.3; 
 }
@@ -62,7 +62,7 @@ h1 a:hover, h1 a :focus  {
 
 
 h2 {
-	font-weight: 900;
+	font-weight: bold;
 	font-size: 2rem;
 	line-height: 1.3; 
 	color: #000;
