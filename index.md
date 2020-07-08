@@ -8,4 +8,4 @@ Das Vorhaben erhält eine Förderung durch die <a href="https://www.bosch-stiftu
 	
 Diese Webseite befindet sich noch im Aufbau.
 
-Kontakt: <a href="mailto:info@obsolete-stadt.de">info@obsolete-stadt.de</a></p>
+Kontakt: <a href="mailto:info@obsolete-stadt.de">info@obsolete-stadt.de</a>
