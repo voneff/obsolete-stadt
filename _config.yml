@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Obsolete Stadt
+
+plugins:
+  - jekyll-seo-tag
