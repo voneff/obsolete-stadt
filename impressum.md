@@ -1,5 +1,5 @@
 ---
-title: Die Obsolete Stadt | Impressum
+title: Obsolete Stadt | Impressum
 ---
 
 ## Impressum
