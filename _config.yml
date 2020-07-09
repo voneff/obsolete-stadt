@@ -1,8 +1,8 @@
 title: Obsolete Stadt
-tagline: Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
+description: Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
 url: https://obsolete-stadt.de/
 lang: de_DE
-image: /assets/img/obsolete_stadt_og_image
+image: /assets/img/obsolete_stadt_og_image.png
 
 # Build settings
 theme: jekyll-theme-minimal
