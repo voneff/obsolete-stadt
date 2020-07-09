@@ -17,6 +17,8 @@ E-Mail: <info@obsolete-stadt.de>
 ### Technische Umsetzung:
 Alex von Freeden – <a href="https://laikalaika.de/">LaikaLaika.de</a>
 
+Diese Website läuft mit <a href="https://github.com/pages-themes/minimal">Jekyll</a>, basiert auf dem <a href="https://github.com/pages-themes/minimal">Mimimal Theme</a> und wird von <a href="https://pages.github.com/"> GitHub Pages</a> gehostet.
+
 ### Haftungshinweis:
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
