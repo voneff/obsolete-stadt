@@ -1,4 +1,4 @@
-title: Obsolete Stadt
+title: Die Obsolete Stadt – ein internationales & transdisziplinäres Forschungsprojekt
 description: Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
 url: https://obsolete-stadt.de
 lang: de_DE
@@ -10,6 +10,5 @@ defaults:
 
 # Build settings
 theme: jekyll-theme-minimal
-
 plugins:
   - jekyll-seo-tag

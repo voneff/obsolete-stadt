@@ -1,3 +1,5 @@
+title: Die Obsolete Stadt | Impressum
+
 ## Impressum
 
 Universität Kassel  

@@ -1,3 +1,5 @@
+title: Die Obsolete Stadt – ein internationales & transdisziplinäres Forschungsprojekt
+
 ## Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
 
 Digitalisierung, Mobilitätswende, Säkularisierung, Klimawandel, Demografischer Wandel –	die beherrschenden Megatrends unserer Zeit verändern unsere Städte radikal. Gemeinsam mit disruptiven Ereignissen, wie der Corona-Pandemie von 2020, sorgen sie dafür, dass alte Gewissheiten nicht mehr gelten. Infrastrukturen, Immobilien, Grundstücke und damit zusammenhängende Geschäftsmodelle, Logiken und Prozesse verlieren ihre ursprüngliche Bedeutung. Das Risiko für Liegenschaften, obsolet zu werden, steigt. Die Gefahr von Leerständen und un- und untergenutzten Flächen in ansonsten prosperierenden und wachsenden Großstädten steigt. Doch wie erkennen wir die Risiken? Können wir bestimmte Entwicklungen sogar antizipieren? Und wie gelingt die nachhaltige Transformation von solchen obsoleten Systemen?
