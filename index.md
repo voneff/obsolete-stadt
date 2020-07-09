@@ -1,4 +1,6 @@
+---
 title: Die Obsolete Stadt – ein internationales & transdisziplinäres Forschungsprojekt
+---
 
 ## Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
 
