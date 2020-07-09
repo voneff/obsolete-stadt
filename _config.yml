@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
-title: Obsolete Stadt
 
 plugins:
   - jekyll-seo-tag
+
+title: Obsolete Stadt
+tagline: Raumpotentiale für eine gemeinwohlorientierte, klimagerechte und koproduktive Stadtentwicklung in wachsenden Großstädten
+url: https://obsolete-stadt.de/
+lang: de_DE
+image: /assets/img/obsolete_stadt_og_image
