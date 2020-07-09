@@ -15,9 +15,9 @@ Fax: +49 561 804 23 90
 E-Mail: <info@obsolete-stadt.de>
 
 ### Technische Umsetzung:
-Alex von Freeden – <a href="https://laikalaika.de/">LaikaLaika.de</a>
+Alex von Freeden – <a href="https://laikalaika.de/">LaikaLaika.de</a> 
 
-Diese Website läuft mit <a href="https://github.com/pages-themes/minimal">Jekyll</a>, basiert auf dem <a href="https://github.com/pages-themes/minimal">Mimimal Theme</a> und wird von <a href="https://pages.github.com/"> GitHub Pages</a> gehostet.
+Diese Website läuft mit <a href="https://github.com/pages-themes/minimal">Jekyll</a>, basiert auf dem <a href="https://github.com/pages-themes/minimal">Mimimal Theme</a> und wird von <a href="https://pages.github.com/"> GitHub Pages</a> gehostet. Die Entwicklung erfolgt in <a href="https://github.com/voneff/obsolete-stadt"> diesem GitHub-Projekt</a>.
 
 ### Haftungshinweis:
 
