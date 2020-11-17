@@ -8,7 +8,7 @@ Digitalisierung, Mobilitätswende, Säkularisierung, Klimawandel, Demografischer
 
 Drei Jahre lang wird das internationale, transdisziplinäre Forschungsprojekt „Die Obsolete Stadt“ diese Leitfragen in ausgesuchten deutschen Großstädten exemplarisch ergründen und wissenschaftliche Antworten und Methoden entwickeln. 
 		
-Das Vorhaben erhält eine Förderung durch die <a href="https://www.bosch-stiftung.de/de" target="_blank">Robert-Bosch-Stiftung</a>. Verwaltet wird das Projekt von der <a href="https://www.uni-kassel.de/fb06/" target="_blank"> Fakultät für Architektur, Städtebau und Landschaftsplanung der Universität Kassel </a> sowie dem <a href="https://sound.hs-niederrhein.de" target="_blank">Kompetenzzentrum für Public und Social Design der Hochschule Niederrhein.</a>
+Das Vorhaben erhält eine Förderung durch die <a href="https://www.bosch-stiftung.de/de" target="_blank">Robert-Bosch-Stiftung</a>. Verwaltet wird das Projekt von der <a href="https://www.uni-kassel.de/fb06/" target="_blank"> Fakultät für Architektur, Städtebau und Landschaftsplanung der Universität Kassel</a>.
 	
 Diese Webseite befindet sich noch im Aufbau.
 
